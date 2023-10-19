@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatakalashetti" alt="akshatakalashetti" /></a> </p>
 
-- 🤝 I’m looking for fresher role **software developer**
-
 - 📫 How to reach me **akshatakalashetty2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1YowaJPmiFNkz03qOt0imOfb3HPWRlbb2](https://drive.google.com/drive/folders/1YowaJPmiFNkz03qOt0imOfb3HPWRlbb2)
